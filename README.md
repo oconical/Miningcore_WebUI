@@ -5,3 +5,4 @@ This webui requires it to be installed on a webserver Miningcore is running. If 
 
 This is a fork from https://github.com/minernl/Miningcore.WebUI and offers a more modern look on the index page with a basic monocolor color scheme in the other sections. Scripts have been tested with RetroMike's Miningcore docker installation.
 
+<img width="1590" height="867" alt="Screenshot from 2026-07-26 12-23-27" src="https://github.com/user-attachments/assets/bfb02948-6b0a-4898-bea3-95a2b3fed1e8" />
